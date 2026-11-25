@@ -1,5 +1,5 @@
 // Reproduces wrong dmat4 loads from a storage buffer whose bound base address is
-// 16-byte but not 32-byte aligned (observed on NVIDIA, correct on AMD).
+// 16-byte but not 32-byte aligned (observed on NVIDIA GeForce RTX 5070 Ti).
 //
 // The buffer holds 8 padding doubles (-1 .. -8) followed by 128 values 3k + 0.25.
 // A compute shader loads dmat4 i from the bound range and stores its 16 components
