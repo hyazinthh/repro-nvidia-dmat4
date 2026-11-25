@@ -70,5 +70,6 @@ descriptor offset 0. A failure names the shift the output shows.
 | NVIDIA GeForce RTX 5070 Ti | Windows 10.0 build 26100 | NVIDIA 621.40 | 16 | 16 | FAIL (16 B early) | FAIL (16 B early) | FAIL (16 B early) | FAIL (16 B early) |
 | NVIDIA GeForce RTX 4070 Ti SUPER | Windows 10.0 build 26100 | NVIDIA 610.88 | 16 | 16 | pass | pass | pass | pass |
 | NVIDIA GeForce RTX 4070 Ti SUPER | Windows 10.0 build 26100 | NVIDIA 621.01 | 16 | 16 | pass | pass | pass | pass |
+| NVIDIA GeForce RTX 4070 Ti SUPER | Windows 10.0 build 26100 | NVIDIA 621.40 | 16 | 16 | pass | pass | pass | pass |
 | AMD Radeon RX 9060 XT | Windows 10.0 build 26300 | AMD proprietary driver 26.11.2 (LLPC) | 4 | 4 | pass | pass | pass | pass |
 | AMD Radeon Graphics (RADV GFX1200) | Linux 7.0.0-43-generic | radv Mesa 25.2.8-0ubuntu0.24.04.5 | 4 | 16 | pass | pass | pass | pass |
